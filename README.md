@@ -57,7 +57,7 @@
 
 ###
 
-<p align="center">🐲 Kali enthusiast🐧<br>🎮 Videogames & anime enjoyer 👹 <br>🎃 Horror films is my passion 🧟</p>
+<p align="center">🐲 Kali enthusiast🐧<br>🎮 Videogames & anime enjoyer 👹 <br>🎃 Horror films are my passion 🧟</p>
 
 ###
 
